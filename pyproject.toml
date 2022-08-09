@@ -1,0 +1,23 @@
+[project]
+name = "tinyparse"
+version = "0.1.0"
+authors = [
+  { name="MP Prabhanand", email="wdxp@rediffmail.com" },
+]
+description = "an easy to use argument parser for Python"
+readme = "README.md"
+license = { file="LICENSE" }
+requires-python = ">=3.7"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/wandxp/tinyparse"
+"Bug Tracker" = "https://github.com/wandxp/tinyparse/issues"
+
+[build-system]
+requires = ["flit_core>=3.2"]
+build-backend = "flit_core.buildapi"
