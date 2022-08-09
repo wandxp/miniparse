@@ -15,8 +15,8 @@ classifiers = [
 ]
 
 [project.urls]
-"Homepage" = "https://github.com/wandxp/tinyparse"
-"Bug Tracker" = "https://github.com/wandxp/tinyparse/issues"
+"Homepage" = "https://github.com/wdxpe/tinyparse"
+"Bug Tracker" = "https://github.com/wdxpe/tinyparse/issues"
 
 [build-system]
 requires = ["flit_core>=3.2"]
